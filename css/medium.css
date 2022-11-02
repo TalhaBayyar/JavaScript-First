@@ -1,0 +1,36 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid black;
+}
+
+.color{
+   color:  rgba(230, 230, 230, 1);
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.wh-bradius{
+    
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-radius: 25px;
+    background-color: rgba(242, 242, 242, 1);
+    color: rgba(117, 117, 117, 1);
+    padding: 5px;
+    
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}

@@ -1,0 +1,62 @@
+.t-bayyar{
+
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Trispace', sans-serif;
+
+
+    
+}
+
+
+
+
+
+.header-alt{
+    position: relative;
+    display: block;
+    bottom: 26px;
+    left: 60px;
+}
+
+
+@media only screen and (min-width:1200px){ /* XL */
+	.header-alt{
+		
+		
+	}
+	
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.header-alt .header-alt-img{
+		position: relative;
+        width: 790px;
+	}
+	
+}
+
+
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	.header-alt .header-alt-img{
+		display: none;
+	}
+	
+}
+
+@media only screen and (min-width:576px) and (max-width:767px){ /* S */
+	.header-alt .header-alt-img{
+		display: none;
+        
+	}
+	
+}
+
+@media only screen and (max-width:574px){ /* XS */
+	.header-alt{
+		display: none;
+	}
+	
+}
+
+
